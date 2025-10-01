@@ -1,0 +1,5 @@
+while is opposite of until
+if is opposite of unless
+in while, loop occurs until condition is met, and breaks when it is met
+in until,loop occurs as long as condition is met,and breaks when its not
+if occurs when condition is true,unless occurs when condition is false
